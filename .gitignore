@@ -1,0 +1,16 @@
+.idea
+.directory
+**/*.iml
+target
+**/test-build.properties
+
+# vim temp files
+**/.*.swp
+**/*~
+
+**/catalina.base_IS_UNDEFINED/*
+tags
+**/rebel.xml
+**/rebel-remote.xml
+
+/projects/**
